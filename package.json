@@ -2,9 +2,7 @@
   "name": "algorithms-in-javascript",
   "version": "0.0.0",
   "description": "To cover algorithms in javascript",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "dependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/elonyavist/algorithms-in-javascript.git"
