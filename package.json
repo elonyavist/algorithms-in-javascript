@@ -1,0 +1,22 @@
+{
+  "name": "algorithms-in-javascript",
+  "version": "0.0.0",
+  "description": "To cover algorithms in javascript",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elonyavist/algorithms-in-javascript.git"
+  },
+  "keywords": [
+    "js",
+    "algorithms"
+  ],
+  "author": "elonyavist",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elonyavist/algorithms-in-javascript/issues"
+  },
+  "homepage": "https://github.com/elonyavist/algorithms-in-javascript#readme"
+}
