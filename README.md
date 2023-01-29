@@ -19,4 +19,3 @@ So, in this case, we can use the ***binary search*** to improve our code. Instea
 
 Ex: the ```sortedArray``` contains 1000 numbers (from 1 to 1000), if you start from the middle you get `500`, so, since ```500``` is greater than ```220``` you've just eliminated all the numbers between ```500``` and ```1000```.  
 In the next iteration you can continue with the range ```0 - 250``` looking for the position ```125```
-
