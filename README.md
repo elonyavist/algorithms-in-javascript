@@ -17,5 +17,5 @@ Imagine that you have a sorted array like this ```const sortedArray = [1,2,3,4,5
 
 So, in this case, we can use the ***binary search*** to improve our code. Instead of starting from ```0``` you can start your search from the middle of the array and if the number is too low (or too high) than your number, you've just eliminated half the numbers!  
 
-Ex: the ```sortedArray``` contains 1000 numbers (from 1 to 1000), if you start from the middle you get `500`, so, since ```500``` is greater than ```220``` you've just eliminated all the numbers between ```500``` and ```1000```.  
+E.g: the ```sortedArray``` contains 1000 numbers (from 1 to 1000), if you start from the middle you get `500`, so, since ```500``` is greater than ```220``` you've just eliminated all the numbers between ```500``` and ```1000```.  
 In the next iteration you can continue with the range ```0 - 250``` looking for the position ```125```
